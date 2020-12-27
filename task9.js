@@ -1,0 +1,10 @@
+var num1 = 8;
+var num2 = 4;
+var answer = num1 - num2;
+document.write('Difference of' + " " + num1 + " " + 'and' + " " + num2 + " " + 'is' + " " + answer);
+var answer = num1 * num2;
+document.write('<br>Multiplication of' + " " + num1 + " " + 'and' + " " + num2 + " " + 'is' + " " + answer);
+var answer = num1 / num2;
+document.write('<br>Quotient of' + " " + num1 + " " + 'and' + " " + num2 + " " + 'is' + " " + answer);
+var answer = num1 % num2;
+document.write('<br>Modulus of' + " " + num1 + " " + 'and' + " " + num2 + " " + 'is' + " " + answer);
